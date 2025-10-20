@@ -18,11 +18,9 @@ nyno-serper-search:
     - "${search}"
 ```
 
-* `${apiKey}` → Your OpenAI API key
-* `${imagePath}` → Path to the image you want to edit
-* `${prompt}` → Description of the desired edit
+* `${apiKey}` → Your [Server.dev](https://serper.dev) API key
+* `${search}` → Search input
 
-![/h/a430a14b77eb61eff79e6b3edf41decdfb160158c2612efdb3b0ab965f13574a/screenshot-from-2025-10-14-20-32-45.webp](/h/a430a14b77eb61eff79e6b3edf41decdfb160158c2612efdb3b0ab965f13574a/screenshot-from-2025-10-14-20-32-45.webp)
 
 ---
 
