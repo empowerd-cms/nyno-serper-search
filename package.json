@@ -1,0 +1,11 @@
+{
+  "name": "nyno-serper-search",
+  "version": "1.0.0",
+  "description": "Serper Search with nyno",
+  "bin": {
+    "nyno-serper-search": "./bin/nyno-serper-search"
+  },
+  "license": "Apache2"
+}
+
+
