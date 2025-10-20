@@ -18,7 +18,7 @@ nyno-serper-search:
     - "${search}"
 ```
 
-* `${apiKey}` → Your [Server.dev](https://serper.dev) API key
+* `${apiKey}` → Your [Serper.dev](https://serper.dev) API key
 * `${search}` → Search input
 
 
